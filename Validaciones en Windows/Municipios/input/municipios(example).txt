@@ -1,0 +1,950 @@
+189144	6.25667	-75.5275	Medellín	Antioquia
+303050	5.78333	-75.4333	Abejorral	Antioquia
+1683862	6.65272	-76.0082	Abriaquí	Antioquia
+37191	6.38305	-75.1153	AlejandrÍa	Antioquia
+198176	6.04	-75.71	Amagá	Antioquia
+147449	6.96667	-75.0333	Amalfi	Antioquia
+190831	5.66	-75.88	Andes	Antioquia
+189087	6.11528	-75.6983	Angelópolis	Antioquia
+373689	6.83333	-75.3	Angostura	Antioquia
+189085	7.26667	-75.0642	AnorÍ	Antioquia
+189242	6.56	-75.83	Santafé de antioquia	Antioquia
+804932	6.37	-75.85	Anza	Antioquia
+668733	7.9222	-76.6275	Apartadó	Antioquia
+276114	8.83333	-76.4833	Arboletes	Antioquia
+328971	5.75	-75.2	Argelia	Antioquia
+814786	6.28	-75.53	Armenia	Antioquia
+161914	6.43861	-75.3331	Barbosa	Antioquia
+189083	6.59917	-75.6542	Belmira	Antioquia
+147433	6.33358	-75.6508	Bello	Antioquia
+189093	5.73611	-76.0031	Betania	Antioquia
+764497	5.73	-76	Betulia	Antioquia
+189184	5.76917	-76.0364	Ciudad bolívar	Antioquia
+276115	7	-75.4167	Briceño	Antioquia
+189221	6.73	-75.91	Buriticá	Antioquia
+203126	7.58	-75.35	Cáceres	Antioquia
+839786	7.67	-75.37	Caicedo	Antioquia
+161864	6.09278	-75.6411	Caldas	Antioquia
+213928	6.97925	-75.297	Campamento	Antioquia
+394270	6.72827	-75.9983	Cañasgordas	Antioquia
+194650	6.42	-74.77	Caracolí	Antioquia
+189152	5.57778	-75.6603	Caramanta	Antioquia
+280005	7.78113	-76.7296	Carepa	Antioquia
+162180	6.10706	-75.3917	El carmen de viboral	Antioquia
+200730	6.73	-75.29	Carolina	Antioquia
+161947	7.98901	-75.1977	Caucasia	Antioquia
+271899	7.6826	-76.6732	Chigorodó	Antioquia
+673018	6.5381	-75.1236	Cisneros	Antioquia
+36493	6.547	-75.9716	Cocorná	Antioquia
+567232	6.45	-75.25	Concepción	Antioquia
+462632	6.15	-75.8667	Concordia	Antioquia
+189165	6.30556	-75.515	Copacabana	Antioquia
+272581	7.10085	-76.3945	Dabeiba	Antioquia
+147431	6.5288	-75.2578	Donmatías	Antioquia
+189223	6.33	-75.77	Ebéjico	Antioquia
+203110	5.66	-75.88	El bagre	Antioquia
+200738	6.57	-75.52	Entrerrios	Antioquia
+189126	6.18139	-75.5075	Envigado	Antioquia
+189150	5.98556	-75.635	Fredonia	Antioquia
+161791	6.75873	-76.1886	Frontino	Antioquia
+505494	6.65	-75.6167	Giraldo	Antioquia
+196429	6.38	-75.45	Girardota	Antioquia
+348628	6.61222	-75.1531	Gómez plata	Antioquia
+277836	6.16667	-75.1333	Granada	Antioquia
+446101	6.80228	-75.2334	Guadalupe	Antioquia
+276182	6.27741	-75.496	Guarne	Antioquia
+271908	6.29975	-75.1361	Guatape	Antioquia
+198239	6.21	-75.74	Heliconia	Antioquia
+473270	5.8025	-75.9092	Hispania	Antioquia
+198209	6.18	-75.61	Itagui	Antioquia
+178723	7.24262	-75.9648	Ituango	Antioquia
+189113	5.48694	-75.8978	Jardín	Antioquia
+189129	5.8	-75.7269	Jericó	Antioquia
+273305	6.00243	-75.4051	La ceja	Antioquia
+189213	6.13833	-75.6817	La estrella	Antioquia
+192631	5.75	-75.61	La pintada	Antioquia
+274892	5.92972	-75.3408	La unión	Antioquia
+189095	6.75917	-75.7361	Liborina	Antioquia
+194538	6.56	-74.79	Maceo	Antioquia
+672746	6.2133	-75.3262	Marinilla	Antioquia
+212164	5.94647	-75.5238	Montebello	Antioquia
+294097	6.59417	-76.8917	Murindó	Antioquia
+276254	7.22489	-76.4645	Mutatá	Antioquia
+276555	5.56667	-75.15	Nariño	Antioquia
+273988	8.65637	-76.6186	NecoclÍ	Antioquia
+1046043	7.0302	-75.5905	Nechí	Antioquia
+349413	6.62525	-75.8046	Olaya	Antioquia
+566433	6.76667	-75.2833	Peñol	Antioquia
+68369	7.23333	-75.9333	Peque	Antioquia
+273820	5.81273	-75.8591	Pueblorrico	Antioquia
+194530	6.5	-74.71	Puerto berrío	Antioquia
+194531	6.18	-74.58	Puerto nare	Antioquia
+32602	5.86777	-74.2347	Puerto triunfo	Antioquia
+194576	7.05	-74.68	Remedios	Antioquia
+161832	6.06028	-75.5061	Retiro	Antioquia
+271903	6.42679	-75.3684	Rionegro	Antioquia
+189243	6.86	-75.82	Sabanalarga	Antioquia
+198175	6.16	-75.62	Sabaneta	Antioquia
+190827	5.97	-75.98	Salgar	Antioquia
+200732	6.92	-75.68	San andrés de cuerquia	Antioquia
+108799	6.20672	-74.8478	San carlos	Antioquia
+32826	5.89444	-74.9194	San francisco	Antioquia
+189220	6.44	-75.73	San jerónimo	Antioquia
+189187	6.77167	-75.6944	San josé de la montaña	Antioquia
+2172360	8.60778	-76.5653	San juan de urabá	Antioquia
+33597	6	-74.9378	San luis	Antioquia
+180446	6.45444	-75.6044	San pedro de los milagros	Antioquia
+294521	8.35306	-76.2825	San pedro de uraba	Antioquia
+36554	6.29611	-75.3722	San rafael	Antioquia
+164140	6.40122	-75.0131	San roque	Antioquia
+273473	6.27382	-75.3631	San vicente	Antioquia
+272549	5.76369	-75.604	Santa bárbara	Antioquia
+189422	6.69972	-75.6025	Santa rosa de osos	Antioquia
+330772	6.53806	-75.2289	Santo domingo	Antioquia
+306078	6.13833	-75.2642	El santuario	Antioquia
+274938	7.08361	-74.7036	Segovia	Antioquia
+31900	5.73763	-74.7315	Sonson	Antioquia
+189186	6.61917	-75.7114	Sopetrán	Antioquia
+189167	5.67333	-75.7478	Támesis	Antioquia
+301706	8.58333	-75.4167	Tarazá	Antioquia
+192470	5.87	-75.83	Tarso	Antioquia
+198207	6.07	-75.8	Titiribí	Antioquia
+274105	7.02759	-75.6899	Toledo	Antioquia
+42460	7.70933	-77.2952	Turbo	Antioquia
+346100	6.85	-76.1	Uramita	Antioquia
+161793	6.52412	-76.2678	Urrao	Antioquia
+211226	7.16312	-75.4397	Valdivia	Antioquia
+192476	5.62	-75.63	Valparaíso	Antioquia
+212062	6.77173	-74.7978	Vegachi	Antioquia
+161818	5.97452	-75.8413	Venecia	Antioquia
+233639	6.56256	-76.7874	Vigía del fuerte	Antioquia
+408271	6.72139	-74.8461	YalÍ	Antioquia
+200743	6.97	-75.42	Yarumal	Antioquia
+194525	6.6	-75.02	Yolombó	Antioquia
+345579	7.00778	-73.9142	Yondó	Antioquia
+22288	7.26528	-74.6303	Zaragoza	Antioquia
+478416	10.9667	-78.7833	Barranquilla	Atlántico
+1680522	10.7964	-74.913	Baranoa	Atlántico
+1680226	10.461	-74.8346	Campo de la cruz	Atlántico
+1679957	10.8964	-74.8856	Galapa	Atlántico
+728033	10.4	-75.1	Juan de acosta	Atlántico
+272544	10.6459	-75.1768	Luruaco	Atlántico
+1469320	10.8554	-74.7564	Malambo	Atlántico
+689890	10.7375	-75.2317	Piojó	Atlántico
+672048	11.0316	-74.8786	Puerto colombia	Atlántico
+1462574	10.4979	-75.1116	Repelón	Atlántico
+689563	10.8046	-74.74	Sabanagrande	Atlántico
+411800	10.65	-74.9167	Sabanalarga	Atlántico
+444053	5.09389	-75.7678	Santo tomás	Atlántico
+1052525	10.9261	-74.7466	Soledad	Atlántico
+1684111	10.8951	-74.9981	Tubará	Atlántico
+1045978	10.7429	-74.9833	Usiacurí	Atlántico
+23336	4.7	-74.1333	Bogotá D.C.	Bogotá Distrito Capital
+641512	8.95144	-74.1096	Barranco de loba	Bolívar
+436008	-4.18333	-78.9167	Calamar	Bolívar
+652551	9.63	-74.9122	Córdoba	Bolívar
+2162639	10.5544	-75.3255	Clemencia	Bolívar
+1679291	9.71854	-75.1344	El carmen de bolívar	Bolívar
+658293	9.96667	-74.85	El guamo	Bolívar
+1756197	8.77344	-73.9122	El peñón	Bolívar
+397016	9	-74.0833	Hatillo de loba	Bolívar
+546670	9.16667	-74.75	Magangué	Bolívar
+1679287	10.1033	-75.1994	Mahates	Bolívar
+722502	9	-74.1	Margarita	Bolívar
+1680237	9.98306	-75.3014	María la baja	Bolívar
+19939	9.24194	-74.4267	Mompós	Bolívar
+666235	8.29657	-73.7933	Morales	Bolívar
+673810	8.41318	-74.2316	Norosí	Bolívar
+641412	8.91922	-74.4393	Pinillos	Bolívar
+1746823	10.3973	-75.0712	San cristóbal	Bolívar
+570565	9.06667	-74.2667	San fernando	Bolívar
+299885	9.25	-75.1667	San jacinto	Bolívar
+298024	9.85917	-75.1106	San juan nepomuceno	Bolívar
+332908	9	-74.0833	San martín de loba	Bolívar
+281041	7.44694	-74.08	San pablo	Bolívar
+283300	10.6067	-75.295	Santa catalina	Bolívar
+363519	4.78333	-75.9167	Santa rosa	Bolívar
+272796	10.3215	-75.3762	Turbaco	Bolívar
+569260	10.3056	-75.4542	Turbaná	Bolívar
+461793	10.5883	-72.9367	Villanueva	Bolívar
+10686	9.63	-74.9122	Zambrano	Bolívar
+279704	5.67954	-73.4799	Tunja	Boyacá
+324245	5.95255	-73.1005	Almeida	Boyacá
+150031	5.54583	-72.9061	Aquitania	Boyacá
+141359	5.82222	-73.4936	Arcabuco	Boyacá
+274585	6.07722	-72.9456	Belén	Boyacá
+323323	6.39973	-72.6314	Boavita	Boyacá
+305520	4.59389	-74.0678	Boyacá	Boyacá
+787148	7.08	-75.5	Briceño	Boyacá
+306741	5.04272	-73.0347	Busbanzá	Boyacá
+315417	5.60818	-73.8567	Caldas	Boyacá
+281713	5.78333	-78.8667	Campohermoso	Boyacá
+1526909	6.20068	-72.7339	Cerinza	Boyacá
+282904	5.19389	-73.2611	Chinavita	Boyacá
+313189	5.60528	-73.8192	Chiquinquirá	Boyacá
+284132	6.54119	-72.5101	Chiscas	Boyacá
+289969	6.0475	-72.3644	Chita	Boyacá
+277716	5.71949	-73.3616	Cómbita	Boyacá
+328519	5.47718	-74.021	Coper	Boyacá
+761694	5.83	-72.85	Corrales	Boyacá
+273254	6.4241	-72.7192	CovarachÍa	Boyacá
+428395	7.25139	-72.0686	Cubará	Boyacá
+336166	5.55	-73.4333	Cucaita	Boyacá
+419990	5.54476	-72.9695	Cuítiva	Boyacá
+163161	5.6904	-73.4391	Chíquiza	Boyacá
+430195	4.93889	-73.3192	Chivor	Boyacá
+272727	5.91263	-73.0665	Duitama	Boyacá
+173603	6.41019	-72.3883	El cocuy	Boyacá
+55762	6.48245	-72.5109	El espino	Boyacá
+403724	5.68113	-73.0258	Firavitoba	Boyacá
+437731	5.84368	-72.9495	Floresta	Boyacá
+304396	5.71194	-73.4725	Gachantivá	Boyacá
+302592	5.80904	-72.8002	Gameza	Boyacá
+192000	5.1275	-73.2817	Garagoa	Boyacá
+405670	6.44344	-72.5462	Guacamayas	Boyacá
+274046	5.00998	-73.4766	Guateque	Boyacá
+173597	6.51863	-72.3154	Güicán	Boyacá
+360396	5.60231	-72.9807	Iza	Boyacá
+332924	5.34921	-73.3556	jenesano	Boyacá
+276202	6.10901	-72.5984	Jericó	Boyacá
+335932	5.6325	-72.5592	Labranzagrande	Boyacá
+274939	5.08333	-73.45	La capilla	Boyacá
+390848	5.54139	-74.219	La victoria	Boyacá
+68085	6.32056	-72.565	La uvita	Boyacá
+10950	5.68722	-73.4792	Villa de leyva	Boyacá
+301192	5.54975	-74.005	Maripí	Boyacá
+274085	5.08333	-73.05	Miraflores	Boyacá
+13494	5.67372	-72.6156	Mongua	Boyacá
+277733	5.69749	-72.8514	Monguí	Boyacá
+231577	5.81333	-73.4828	Moniquirá	Boyacá
+2172807	5.55	-73.35	Motavita	Boyacá
+825055	5.54	-74.11	Muzo	Boyacá
+1655747	5.64853	-73.2989	Oicatá	Boyacá
+279711	5.77586	-74.2858	Otanche	Boyacá
+279144	5.13128	-73.0511	Páez	Boyacá
+24627	5.32278	-73.1211	Paipa	Boyacá
+10939	5.30417	-72.6789	Pajarito	Boyacá
+299693	5.65	-73.9667	Pauna	Boyacá
+336313	5.66667	-72.3333	Paya	Boyacá
+834579	6	-72.72	Paz de río	Boyacá
+80649	5.56028	-73.0539	Pesca	Boyacá
+273725	5.98861	-72.5483	Pisba	Boyacá
+174544	6.07099	-74.5033	Puerto boyacá	Boyacá
+295019	-74.1666	5.5166	Quípama	Boyacá
+273441	5.31665	-73.316	Ramiriquí	Boyacá
+272281	5.54963	-73.6336	Ráquira	Boyacá
+333836	5.71632	-73.7178	Saboyá	Boyacá
+272020	5.58417	-73.5417	Sáchica	Boyacá
+306154	5.4275	-73.5153	Samacá	Boyacá
+373423	5.2416	-73.0353	San eduardo	Boyacá
+367553	5.97373	-73.5161	San josé de pare	Boyacá
+272737	4.83784	-73.2107	San luis de gaceno	Boyacá
+402015	6.48583	-72.5539	San mateo	Boyacá
+1534240	6.06002	-73.4855	Santana	Boyacá
+191893	4.35858	-73.2805	Santa maría	Boyacá
+272586	4.8572	-73.2865	Santa rosa de viterbo	Boyacá
+825721	5.62	-73.53	Santa sofía	Boyacá
+305202	6.13667	-72.8111	Sativanorte	Boyacá
+302617	5.49302	-73.2716	Siachoque	Boyacá
+231159	6.339	-72.6667	Soatá	Boyacá
+279383	5.98444	-74.6958	Socota	Boyacá
+281171	6.07333	-72.445	Socha	Boyacá
+275332	5.44361	-72.7289	Sogamoso	Boyacá
+361587	4.98582	-73.4325	Somondoco	Boyacá
+443161	5.58445	-73.439	Sora	Boyacá
+277181	5.77343	-73.1932	Sotaquirá	Boyacá
+279577	6.17845	-72.7683	Susacón	Boyacá
+24619	5.75028	-73.6672	Sutamarchán	Boyacá
+1765531	5.89	-72.78	Tasco	Boyacá
+282334	5.28611	-73.3567	Tibaná	Boyacá
+302609	5.75819	-73.0309	Tibasosa	Boyacá
+282209	5.55943	-73.6834	Tinjacá	Boyacá
+297742	6.43341	-72.7063	Tipacoque	Boyacá
+105337	5.5	-73.25	Toca	Boyacá
+304148	5.53017	-73.1262	Togüí	Boyacá
+272692	5.52657	-73.0259	Tota	Boyacá
+445351	5.34921	-73.4997	Turmequé	Boyacá
+417462	5.6377	-73.1027	Tuta	Boyacá
+279380	5.28333	-72.8667	Tutazá	Boyacá
+337910	5.25956	-73.4679	Umbita	Boyacá
+240444	5.41667	-73.45	Ventaquemada	Boyacá
+313096	5.4333	-73.2367	Viracachá	Boyacá
+467185	5.30132	-73.1503	Zetaquira	Boyacá
+232704	5.10858	-75.3792	Manizales	Caldas
+159947	5.52222	-75.4019	Aguadas	Caldas
+1683709	5.3328	-75.7911	Anserma	Caldas
+13658	5.28728	-75.4892	Aranzazu	Caldas
+291648	5.01216	-75.782	Belalcázar	Caldas
+276296	4.96667	-75.15	Chinchiná	Caldas
+316201	5.30829	-75.5941	Filadelfia	Caldas
+32144	5.61269	-74.7997	La dorada	Caldas
+547300	5.38333	-75.5667	La merced	Caldas
+37329	5.30694	-75.1432	Manzanares	Caldas
+672237	5.48194	-75.6042	Marmato	Caldas
+176780	5.3013	-75.0565	Marquetalia	Caldas
+307052	5.28333	-75.25	Marulanda	Caldas
+23182	5.23389	-75.6853	Neira	Caldas
+14420	5.57731	-74.8688	Norcasia	Caldas
+275582	5.57272	-75.5123	Pácora	Caldas
+178704	5.06771	-75.6664	Palestina	Caldas
+14324	5.36806	-75.1703	Pensilvania	Caldas
+310782	5.33333	-75.25	Riosucio	Caldas
+329773	5.16667	-75.7667	Risaralda	Caldas
+275594	5.37698	-75.4168	Salamina	Caldas
+14406	5.56372	-74.9042	Samaná	Caldas
+148971	5.08452	-75.7921	San josé	Caldas
+448112	5.39222	-75.63	Supía	Caldas
+14409	5.55608	-74.8833	Victoria	Caldas
+160955	4.91839	-75.3582	Villamaría	Caldas
+1473792	5.06056	-75.8736	Viterbo	Caldas
+272119	1.41778	-75.5103	Florencia	Caquetá
+764988	1.36	-75.99	Albania	Caquetá
+7879	1.42444	-75.8697	Belén de los andaquies	Caquetá
+233312	1.38167	-74.8322	Cartagena del chairá	Caquetá
+279678	1.80013	-75.1755	El doncello	Caquetá
+373002	1.48139	-75.4397	La montañita	Caquetá
+2177177	1.23192	-75.4918	Milán	Caquetá
+1685940	1.48788	-75.7242	Morelia	Caquetá
+349403	1.78252	-75.1964	Puerto rico	Caquetá
+11248	1.34861	-76.1031	San josé del fragua	Caquetá
+10705	2.73917	-74.8894	San vicente del caguan	Caquetá
+11242	0.19	-72.61	Solano	Caquetá
+1552636	0.873611	-75.6306	Valparaíso	Caquetá
+166495	2.45771	-76.6011	Popayán	Cauca
+280089	1.96833	-76.78	Almaguer	Cauca
+759986	2.23	-77.23	Argelia	Cauca
+1592641	2	-77.1667	Balboa	Cauca
+1679611	1.83495	-76.9668	BolÍvar	Cauca
+558785	2.98833	-76.6855	Buenos aires	Cauca
+454308	2.37444	-76.4117	Cajibío	Cauca
+370635	2.80694	-76.4031	Caldono	Cauca
+270049	2.98333	-76.4333	Caloto	Cauca
+1740652	3.17861	-76.2622	Corinto	Cauca
+163481	2.62779	-76.9074	El tambo	Cauca
+11209	2.96694	-78.1836	Guapi	Cauca
+277658	2.48778	-76.2253	Inzá	Cauca
+855298	3.17	-77.37	Jambaló	Cauca
+42459	2.25	-76.9167	La sierra	Cauca
+329730	2	-76.7667	La vega	Cauca
+772804	2.53	-76.95	López	Cauca
+363697	1.77908	-77.2743	Mercaderes	Cauca
+1679096	3.24978	-76.2281	Miranda	Cauca
+773939	2.78	-76.78	Morales	Cauca
+760886	2.57	-76.03	Paez	Cauca
+349128	1.93861	-77.1394	Patía	Cauca
+265963	3.93556	-76.6883	Piamonte	Cauca
+361473	2.715	-76.5653	Piendamó	Cauca
+1534518	3.29346	-76.3829	Puerto tejada	Cauca
+162375	2.37367	-76.3563	Puracé	Cauca
+558784	2.33333	-76.75	Rosas	Cauca
+313762	1.5	-76.5	San sebastián	Cauca
+177285	2.55	-77.0833	Santander de quilichao	Cauca
+178146	1.09806	-76.3281	Santa rosa	Cauca
+298273	2.61667	-76.4833	Silvia	Cauca
+1679219	2.95296	-76.6936	Suárez	Cauca
+439729	2.51669	-76.9756	Timbío	Cauca
+357898	6.28667	-76.7611	Timbiquí	Cauca
+335496	3.06667	-76.0833	Toribio	Cauca
+292691	2.60417	-76.2825	Totoró	Cauca
+262292	3.18508	-76.4482	Villa rica	Cauca
+331718	10.6697	-73.4619	Valledupar	Cesar
+298540	8.31472	-73.6233	Aguachica	Cesar
+280371	10.0333	-73.0667	Agustín codazzi	Cesar
+361261	9.80861	-73.0367	Becerril	Cesar
+24781	9.97611	-73.8903	Bosconia	Cesar
+298344	8.35306	-76.2825	Chimichagua	Cesar
+669566	9.37094	-73.6027	Chiriguaná	Cesar
+2194486	10.5667	-73.6167	Curumaní	Cesar
+295188	8.25	-73.4667	El copey	Cesar
+308586	9.61917	-73.6191	El paso	Cesar
+234237	8.32621	-73.7482	Gamarra	Cesar
+669721	8.42503	-73.4009	González	Cesar
+641564	8.61525	-73.8026	La gloria	Cesar
+279347	9.55556	-73.3208	La jagua de ibirico	Cesar
+162712	10.3664	-72.9032	Manaure	Cesar
+799522	8.97	-73.63	Pailitas	Cesar
+669526	8.67876	-73.7318	Pelaya	Cesar
+1740369	10.4389	-73.4167	Pueblo bello	Cesar
+282174	10.4042	-73.0089	La paz	Cesar
+1746911	7.76473	-73.396	San alberto	Cesar
+1679272	10.3375	-73.1825	San diego	Cesar
+1534539	8.00713	-73.5152	San martín	Cesar
+1680549	8.86266	-73.8038	Tamalameque	Cesar
+301035	8.86444	-75.9206	Montería	Córdoba
+287518	8.25	75.1667	Ayapel	Córdoba
+781498	8.22	-75.48	Buenavista	Córdoba
+1679508	8.7866	-76.2408	Canalete	Córdoba
+354759	8.86667	-75.7167	Cereté	Córdoba
+366462	9.16667	-75.65	Chimá	Córdoba
+1679342	9.05972	-75.4864	Chinú	Córdoba
+1679312	8.87438	-75.6217	Ciénaga de oro	Córdoba
+180015	9.12556	-75.8472	Lorica	Córdoba
+1679510	8.90002	-76.3666	Los córdobas	Córdoba
+690081	9.21772	-75.6799	Momil	Córdoba
+290760	7.79917	-75.8553	Montelíbano	Córdoba
+1679341	9.14892	-76.1753	Moñitos	Córdoba
+767380	8.47	-75.58	Planeta rica	Córdoba
+272870	8.44611	-75.3114	Pueblo nuevo	Córdoba
+1679332	9.02325	-76.2621	Puerto escondido	Córdoba
+431837	0.0930556	79.9911	Puerto libertador	Córdoba
+407366	9.21667	-75.7333	Purísima	Córdoba
+1679344	9	-75.45	Sahagún	Córdoba
+1542019	9.15	-75.5167	San andrés sotavento	Córdoba
+272728	9.35515	-75.7645	San antero	Córdoba
+445494	9.35	-75.9667	San bernardo del viento	Córdoba
+1679421	8.81056	-75.7331	San carlos	Córdoba
+442422	9.03333	-75.8333	San pelayo	Córdoba
+391570	7.95833	-76.0839	Tierralta	Córdoba
+1033792	8.24153	-76.069	Valencia	Córdoba
+365724	4.5807	-74.3243	Agua de dios	Cundinamarca
+191784	4.86667	-74.4167	Albán	Cundinamarca
+158090	4.50694	-74.5369	Anapoima	Cundinamarca
+272546	4.7681	-74.4587	Anolaima	Cundinamarca
+274926	4.26749	-74.3954	Arbeláez	Cundinamarca
+345928	4.46468	-74.0775	Beltrán	Cundinamarca
+276086	4.79961	-74.5602	Bituima	Cundinamarca
+24063	4.62889	-74.3136	Bojacá	Cundinamarca
+72908	3.97806	-74.4858	Cabrera	Cundinamarca
+272548	4.7447	-74.4299	Cachipay	Cundinamarca
+1464963	4.93333	-74	Cajicá	Cundinamarca
+281059	4.41773	-73.9704	Caqueza	Cundinamarca
+272719	5.31087	-73.9659	Carmen de carupa	Cundinamarca
+283129	4.95836	-74.6346	Chaguaní	Cundinamarca
+153339	4.86788	-74.0554	ChÍa	Cundinamarca
+272007	4.46556	-74.08	chipaque	Cundinamarca
+272721	4.56583	-74.0128	Choachí	Cundinamarca
+142626	5.05611	-73.6933	Chocontá	Cundinamarca
+11280	5.05872	-74.0198	Cogua	Cundinamarca
+353990	4.81688	-74.1135	Cota	Cundinamarca
+347289	5.19049	-73.7756	Cucunubá	Cundinamarca
+174014	4.58308	-74.4465	El colegio	Cundinamarca
+303625	5.26692	-74.3417	El peñón	Cundinamarca
+545439	4.86028	-74.2625	El rosal	Cundinamarca
+279540	4.78054	-74.394	Facatativá	Cundinamarca
+7134	4.60917	-73.7183	Fomeque	Cundinamarca
+297389	4.31596	-73.9922	Fosca	Cundinamarca
+402850	4.73722	-74.2256	Funza	Cundinamarca
+37588	5.24657	-73.7722	Fúquene	Cundinamarca
+157176	4.41461	-74.3106	Fusagasugá	Cundinamarca
+276159	4.84199	-73.8126	Gachala	Cundinamarca
+493936	4.98333	-73.8667	Gachancipá	Cundinamarca
+275113	4.81833	-73.6494	Gachetá	Cundinamarca
+312649	4.73611	-73.5869	Gama	Cundinamarca
+272270	4.2848	-74.7889	Girardot	Cundinamarca
+273899	4.52786	-74.3194	Granada	Cundinamarca
+273916	5.48801	-73.7715	Guachetá	Cundinamarca
+56159	5.0437	-74.634	Guaduas	Cundinamarca
+144148	4.84667	-73.7906	Guasca	Cundinamarca
+283171	4.5157	-74.7857	Guataquí	Cundinamarca
+56405	4.98134	-73.7767	Guatavita	Cundinamarca
+473248	4.89167	-74.4994	Guayabal de siquima	Cundinamarca
+179567	4.22004	-73.8204	Guayabetal	Cundinamarca
+299195	4.1491	-74.0011	Gutiérrez	Cundinamarca
+384325	4.56043	-74.6807	Jerusalén	Cundinamarca
+142671	4.56667	-73.7833	Junín	Cundinamarca
+650676	4.70361	-73.865	La calera	Antioquia
+13850	4.66667	-74.4167	La mesa	Cundinamarca
+272609	5.25642	-74.3422	La palma	Cundinamarca
+272607	5.02921	-74.3668	La vega	Cundinamarca
+1655248	5.33	-73.6835	Lenguazaque	Cundinamarca
+274040	5.07705	-73.5524	Macheta	Cundinamarca
+273286	4.72472	-74.2531	Madrid	Cundinamarca
+22273	4.58639	-73.4256	Medina	Cundinamarca
+273375	4.67706	-74.2854	Mosquera	Cundinamarca
+272122	4.42025	-74.8034	Nariño	Cundinamarca
+273482	5.09998	-73.863	Nemocón	Cundinamarca
+272583	4.36278	-74.5194	Nilo	Cundinamarca
+348470	5.12295	-74.4498	Nimaima	Cundinamarca
+300891	5.06666	-74.425	Nocaima	Cundinamarca
+283155	4.13972	-74.4658	Venecia	Cundinamarca
+274089	5.16739	-74.1589	Pacho	Cundinamarca
+228269	5.45	-74.1	Paime	Cundinamarca
+42328	4.183	-74.5414	Pandi	Cundinamarca
+456683	4.37889	-73.2214	Paratebueno	Cundinamarca
+272023	4.31667	-74.3	Pasca	Cundinamarca
+157443	5.50461	-74.6283	Puerto salgar	Cundinamarca
+276087	4.33061	-73.8678	Quetame	Cundinamarca
+280606	4.70248	-74.4998	Quipile	Cundinamarca
+296207	4.52456	-74.5725	Apulo	Cundinamarca
+284787	1.25	-78.25	Ricaurte	Cundinamarca
+13866	4.56125	-74.3514	San antonio del tequendama	Cundinamarca
+274484	4.10667	-74.3783	San bernardo	Cundinamarca
+94307	5.25466	-74.0982	San cayetano	Cundinamarca
+187753	4.70361	-73.8511	San francisco	Cundinamarca
+558457	4.85125	-74.1273	San juan de río seco	Cundinamarca
+275116	4.98556	-74.4658	Sasaima	Cundinamarca
+273377	5.05016	-73.8069	Sesquilé	Cundinamarca
+277470	4.51628	-74.257	Sibaté	Cundinamarca
+168228	4.40421	-74.3936	Silvania	Cundinamarca
+233063	5.46847	-73.868	Simijaca	Cundinamarca
+273063	4.52857	-74.3209	Soacha	Cundinamarca
+22293	4.91	-73.9392	Sopó	Cundinamarca
+272201	4.99861	-74.1494	Subachoque	Cundinamarca
+273501	5.11788	-73.8361	Suesca	Cundinamarca
+274517	5.03667	-74.1708	Supatá	Cundinamarca
+303811	5.48801	-73.7715	Susa	Cundinamarca
+342896	5.24606	-73.8739	Sutatausa	Cundinamarca
+173297	4.91278	-74.1159	Tabio	Cundinamarca
+23006	5.20083	-73.9022	Tausa	Cundinamarca
+663227	5.3197	-74.9181	Tena	Caldas
+485127	4.86472	-74.1664	Tenjo	Cundinamarca
+280982	4.35178	-74.4811	Tibacuy	Cundinamarca
+273061	4.46667	-74.6333	Tocaima	Cundinamarca
+293034	4.95444	-73.9364	Tocancipá	Cundinamarca
+275847	5.33262	-74.2849	Topaipí	Cundinamarca
+203431	4.75861	-73.3581	Ubalá	Cundinamarca
+310135	4.56389	-74.0253	Ubaque	Cundinamarca
+1045905	5.3833	-73.8	Villa de san diego de ubate	Cundinamarca
+1549034	4.40611	-74.0333	Une	Cundinamarca
+275204	5.19605	-74.4816	Útica	Cundinamarca
+361355	4.87889	-74.5642	Vianí	Cundinamarca
+273300	5.19124	-73.5417	Villapinzón	Cundinamarca
+275635	5.0039	-74.4728	Villeta	Cundinamarca
+13858	4.43333	-74.4667	Viotá	Cundinamarca
+66578	5.58869	-74.3038	Yacopí	Cundinamarca
+162451	4.71583	-74.4283	Zipacón	Cundinamarca
+273205	5.10833	-74.0772	Zipaquirá	Cundinamarca
+31067	5.59405	-76.6379	Quibdó	Chocó
+163934	8.4222	-77.3523	Acandí	Chocó
+66011	6.08333	-77.1667	Alto baudó	Chocó
+317750	-71.3375	7.04056	Atrato	Chocó
+732015	5.41667	-76.4	Bagadó	Chocó
+22443	6.19167	-77.3486	Bahía solano	Chocó
+272597	5.06833	-76.9383	Bajo baudó	Chocó
+668148	6.55802	-76.8948	Bojaya	Chocó
+1510681	5.71194	-76.6331	El cantón del san pablo	Chocó
+417721	5.74917	-76.265	Carmen del darien	Chocó
+274385	5.34333	-76.6253	Cértegui	Chocó
+498725	5.16194	-76.3867	Condoto	Chocó
+274251	5.85167	-76.2289	El carmen de atrato	Chocó
+361578	4.16667	-77.1667	El litoral del san juan	Chocó
+273550	5.25	-76.6333	Istmina	Chocó
+66044	6.08333	-77.1667	Juradó	Chocó
+289760	-5.765	-76.665	Lloró	Chocó
+1788581	6.00243	-76.7784	Medio atrato	Chocó
+271938	5	-76.65	Nóvita	Chocó
+22315	5.76667	-77.2333	Nuquí	Chocó
+1788134	5.62474	-76.7475	Río quito	Chocó
+19886	7.94528	-77.1	Riosucio	Chocó
+272553	4.88528	-76.2803	San josé del palmar	Chocó
+276003	4.64389	-76.7589	Sipí	Chocó
+179366	5.31343	-74.4465	Tadó	Chocó
+24845	8.5988	-77.1224	Unguía	Chocó
+316362	5.32722	-76.605	Unión panamericana	Chocó
+283133	3.06678	-75.3752	Neiva	Huila
+10956	1.56361	-75.04	Acevedo	Huila
+272772	2.25528	-75.6653	Agrado	Huila
+563660	3.21667	-75.1668	Aipe	Huila
+541810	2.56667	-75.25	Algeciras	Huila
+377398	2.0548	-75.8072	Altamira	Huila
+1679254	2.73744	-75.3201	Campoalegre	Huila
+448815	3.26667	-74.6333	Colombia	Huila
+149938	5.68833	-73.4511	Garzón	Huila
+305591	2.36667	-75.3667	Gigante	Huila
+835197	2.02	-75.75	Guadalupe	Huila
+1526892	2.5853	-75.4525	Hobo	Huila
+561956	2.75	-75.75	Iquira	Huila
+280105	2.38417	-76.445	Isnos	Huila
+214361	2.21167	-75.94	La argentina	Huila
+272566	2.15639	-75.8147	La plata	Huila
+1628165	5.88333	-73.0672	Oporapa	Huila
+298777	3.00278	-75.54	Palermo	Huila
+12371	1.65722	-76.1867	Palestina	Huila
+1679633	2.26623	-75.8055	Pital	Huila
+36923	1.85694	-76.4283	Pitalito	Huila
+1679251	2.82129	-75.295	Rivera	Huila
+150669	2.11556	-76.2319	Saladoblanco	Huila
+12347	1.79278	-76.3481	San agustín	Huila
+320274	2.90861	-75.6661	Santa maría	Huila
+825474	1.98	-75.82	Suaza	Huila
+277660	2.48472	-75.7003	Tesalia	Huila
+541846	2.96667	-75.0667	Tello	Huila
+275589	2.84135	-75.7509	Teruel	Huila
+1629160	1.95619	-75.8983	Timaná	Huila
+308255	3.05	-75.2333	Villavieja	Huila
+274193	11.1	-72.9333	Riohacha	La Guajira
+1046862	11.1008	-72.692	Albania	La Guajira
+321923	11.05	-72.5333	Barrancas	La Guajira
+163234	11.0477	-73.4637	Dibulla	La Guajira
+1679171	10.8971	-72.8863	Distracción	La Guajira
+1682602	10.6543	-72.9283	El molino	La Guajira
+290606	10.15	-72.9833	Fonseca	La Guajira
+1685939	11.0651	-72.7545	Hatonuevo	La Guajira
+272491	11.1333	-72.6	Maicao	La Guajira
+293713	10.4139	-72.9797	Manaure	La Guajira
+559001	10.7817	-73.0239	San juan del cesar	La Guajira
+663194	5.31972	-74.9181	Uribia	Caldas
+275098	10.4919	-72.9897	Urumita	La Guajira
+275146	10.5781	-72.9006	Villanueva	La Guajira
+23422	11.8333	-73.8	Santa marta	Magdalena
+1033791	10.1749	-74.0772	Algarrobo	Magdalena
+241138	10.8	-73.65	Aracataca	Magdalena
+214886	11.0522	-74.035	Ciénaga	Magdalena
+853303	9.33	-74.05	El banco	Magdalena
+826406	10.41	-74.83	El piñon	Magdalena
+287610	10.5317	-74.0671	Fundación	Magdalena
+293418	10.4044	-72.935	Guamal	Magdalena
+667218	9.3425	-74.4225	Pijiño del carmen	Magdalena
+1046187	10.4091	-74.4025	Pivijay	Magdalena
+674398	9.71648	-74.7926	Plato	Magdalena
+1046885	10.9389	-74.7302	Puebloviejo	Magdalena
+689776	10.6691	-74.5242	Remolino	Magdalena
+779201	11	-74.5	Salamina	Magdalena
+322161	9.26667	-74.4167	San sebastián de buenavista	Magdalena
+667356	9.3053	-74.3844	San zenón	Magdalena
+505140	10.9833	-73.9667	Santa ana	Magdalena
+1045974	11.0059	-74.6834	Sitionuevo	Magdalena
+546711	10	-74.6667	Tenerife	Magdalena
+1345550	10.6238	-74.0874	Zona bananera	Magdalena
+13400	4.13944	-73.6806	Villavicencio	Meta
+33570	3.95266	-73.5459	Acacías	Meta
+1727074	4.40708	-72.9753	Barranca de upía	Meta
+279294	4.23685	-72.8393	Cabuyaro	Meta
+34169	3.85702	-73.6762	Castilla la nueva	Meta
+135348	3.98333	-73.7667	Cubarral	Meta
+279288	4.28379	-73.407	Cumaral	Meta
+279239	4.37569	-73.7733	El calvario	Meta
+1679475	3.56136	-73.7944	El castillo	Meta
+367021	-73.8377	3.7413	El dorado	Meta
+346188	3.43333	-73.6	Fuente de oro	Meta
+41481	3.41816	-73.6702	Granada	Meta
+35423	3.92658	-73.7613	Guamal	Meta
+178678	3.42878	-74.1156	Mesetas	Meta
+11932	3.35	-73.9333	La macarena	Meta
+408650	3.26333	-74.285	Uribe	Meta
+285011	3.57917	-74.0853	Lejanías	Meta
+160707	2.58667	-72.7728	Puerto concordia	Meta
+37668	4.2	-72.1583	Puerto gaitán	Meta
+41450	4.13333	-72.65	Puerto lópez	Meta
+180333	2.9425	-73.4367	Puerto rico	Meta
+272620	4.26728	-73.5869	Restrepo	Meta
+425527	2.82778	-73.9022	San carlos de guaroa	Meta
+233313	3.28333	-73.9167	San juan de arama	Meta
+23458	4.49083	-73.6947	San juanito	Meta
+32119	3.53741	-73.3564	San martín	Meta
+163225	2.97854	-73.6786	Vistahermosa	Meta
+56935	1.22736	-77.3645	Pasto	Nariño
+762329	1.43	-77.08	Albán	Nariño
+474028	1.28639	-77.5353	Ancuyá	Nariño
+72270	1.47833	-77.1282	Arboleda	Nariño
+12620	1.28942	-78.0822	Barbacoas	Nariño
+313803	1.23333	-77.1333	Buesaco	Nariño
+71876	1.63481	-77.0054	Colón	Nariño
+772584	1.15	-77.47	Consaca	Nariño
+459226	0.896111	-77.5392	Contadero	Nariño
+772573	1.85	-77.52	Córdoba	Nariño
+277571	0.916667	-77.8333	Cumbal	Nariño
+564081	1.41833	-77.2773	Chachagüí	Nariño
+827864	1.13	-77.97	El charco	Nariño
+335886	6.23333	-75.2167	El peñol	Nariño
+470992	1.69247	-77.3624	El rosario	Nariño
+310812	1.48861	-76.8411	El tablón de gómez	Nariño
+306337	1.21528	-76.7839	El tambo	Nariño
+467612	1.01667	-77.4833	Funes	Nariño
+399090	0.936389	-77.8781	Guachucal	Nariño
+564830	1.08287	-77.6841	Gualmatán	Nariño
+793996	1.38	-77.07	Iles	Nariño
+273174	1.06667	-77.4667	Imués	Nariño
+22430	0.483333	-77.25	Ipiales	Nariño
+278377	1.46667	-76.9167	La cruz	Nariño
+278721	1.295	-77.3786	La florida	Nariño
+683626	2.65444	-78.2856	La tola	Nariño
+72779	1.61972	-77.0862	La unión	Nariño
+383249	1.86667	-77.35	Leiva	Nariño
+286677	1.13333	-77.9667	Los andes	Nariño
+657585	1.875	-77.9214	Magüí	Nariño
+295559	1.4	-77.65	Mallama	Nariño
+274168	2.63944	-78.3019	Mosquera	Nariño
+316264	2.63944	-78.3022	Nariño	Nariño
+762108	2.35	-78.37	Olaya herrera	Nariño
+564873	1.08287	-77.6841	Ospina	Nariño
+280270	1.6975	-77.3397	Policarpa	Nariño
+333934	0.75	-77.0667	Potosí	Nariño
+1462402	0.781722	-77.2835	Puerres	Nariño
+174168	1.20709	-77.9945	Ricaurte	Nariño
+275431	1.3	-77.5556	Samaniego	Nariño
+361830	1.27972	-77.4594	Sandoná	Nariño
+418011	1.46667	-76.9167	San bernardo	Nariño
+72453	1.59422	-77.1824	San lorenzo	Nariño
+635519	1.56872	-77.1096	San pedro de cartago	Nariño
+801217	1.15	-77.88	Santa bárbara	Nariño
+769461	1.23	-77.65	Santacruz	Nariño
+564756	1.08194	-77.7	Sapuyes	Nariño
+306839	1.66372	-77.3494	Taminango	Nariño
+361332	1.11639	-77.3664	Tangua	Nariño
+563659	1.74389	-78.2437	San andres de tumaco	Nariño
+272711	1.11667	-77.6667	Túquerres	Nariño
+312669	1.07222	-77.4272	Yacuanquer	Nariño
+554291	8.06056	-72.4061	Cúcuta	Norte de Santander
+274155	7.83556	-73.2192	Abrego	Norte de Santander
+13596	7.504	-72.9484	Arboledas	Norte de Santander
+546277	7.66667	-72.5833	Bochalema	Norte de Santander
+13583	7.67097	-72.9664	Cachirá	Norte de Santander
+71083	7.5	-72.5833	Chinácota	Norte de Santander
+399163	7.13	-72.6361	Chitagá	Norte de Santander
+275415	8.46722	-73.3333	Convención	Norte de Santander
+30997	7.48333	-72.85	Cucutilla	Norte de Santander
+350803	7.12139	-72.3733	El carmen	Norte de Santander
+560985	7.91667	-72.75	Gramalote	Norte de Santander
+22450	7.42528	-72.4439	Herrán	Norte de Santander
+793982	7.33	-72.5	Labateca	Norte de Santander
+683107	7.63917	-73.3358	La esperanza	Norte de Santander
+269797	8.23333	-73.25	La playa	Norte de Santander
+1680520	7.83333	-72.5167	Los patios	Norte de Santander
+56998	7.85258	-73.2368	Ocaña	Norte de Santander
+281089	7.33833	-72.6169	Pamplona	Norte de Santander
+546395	7.56667	-72.6333	Pamplonita	Norte de Santander
+558355	8.36531	-72.4084	Puerto santander	Norte de Santander
+13554	7.75383	-72.9054	Salazar	Norte de Santander
+650530	7.82942	-72.6079	San cayetano	Norte de Santander
+560145	7.91667	-72.6667	Santiago	Norte de Santander
+759921	8.08	-72.8	Sardinata	Norte de Santander
+825686	7.2	-72.75	Silos	Norte de Santander
+275128	8.75	-73.1667	Teorama	Norte de Santander
+361124	8.70639	-72.9725	Tibú	Norte de Santander
+14114	7.46244	-72.5307	Toledo	Norte de Santander
+1679952	7.81887	-72.4539	Villa del rosario	Norte de Santander
+281712	4.48333	-75.7167	Armenia	Quindío
+277597	4.34529	-75.7329	Buenavista	Quindío
+144332	4.5325	-75.6436	Calarca	Quindío
+23264	4.67167	-75.62	Circasia	Quindío
+144331	4.39333	-75.6889	Córdoba	Quindío
+11438	4.66667	-75.7775	Filandia	Quindío
+278990	4.15444	-75.7153	Génova	Quindío
+144313	4.45528	-75.7906	La tebaida	Quindío
+280437	4.48536	-75.8572	Montenegro	Quindío
+144300	4.33806	-75.7075	Pijao	Quindío
+12579	4.60889	-73.7428	Quimbaya	Quindío
+172229	4.71674	-75.3932	Salento	Quindío
+147398	4.72507	-75.5776	Pereira	Risaralda
+12084	5.15	-76.0181	Apía	Risaralda
+544327	5.18333	-75.9	Belén de umbría	Risaralda
+1050841	4.75112	-75.6059	Dosquebradas	Risaralda
+673438	5.00989	-76.0216	La celia	Risaralda
+36416	5.4355	-75.9287	La virginia	Risaralda
+68338	6.1	-74.8	Marsella	Risaralda
+194534	5.41667	-75.9	Mistrató	Risaralda
+663165	4.29194	-74.2238	Pueblo rico	Cundinamarca
+14076	4.72139	-75.5667	Santa rosa de cabal	Risaralda
+12024	5.14936	-76.0056	Santuario	Risaralda
+202764	7.12056	-73.0767	Bucaramanga	Santander
+269987	6.69833	-73.0217	Aratoca	Santander
+297894	5.92414	-73.6176	Barbosa	Santander
+560907	6.75	-73.1667	Barichara	Santander
+178994	7.01374	-73.6768	Barrancabermeja	Santander
+667990	6.95339	-73.3184	Betulia	Santander
+825691	6.17	-73.5	Bolívar	Santander
+273260	7.36694	-72.8778	California	Santander
+272169	6.46338	-72.6636	Capitanejo	Santander
+345825	6.80267	-73.0025	Cepitá	Santander
+336116	6.98333	-72.7333	Cerrito	Santander
+7034	6.21667	-73.0833	Charalá	Santander
+292241	7.26083	-72.9414	Charta	Santander
+234222	6.49231	-74.4025	Cimitarra	Santander
+1527096	6.78727	-72.6998	Concepción	Santander
+558428	6.41667	-73.1667	Confines	Santander
+776786	6.28	-73.03	Coromoro	Santander
+667995	6.69089	-73.4493	El carmen de chucurí	Santander
+380514	7.47171	-73.2036	El playón	Santander
+142426	6.165	-73.1375	Encino	Santander
+202765	7.12078	-73.0688	Floridablanca	Santander
+1740227	6.61667	-73.3	Galán	Santander
+279828	5.94639	-73.3444	Gambita	Santander
+676874	7.08061	-73.2925	Girón	Santander
+730320	6.96667	-72.85	Guaca	Santander
+558892	6.3	-73.3333	Guadalupe	Santander
+1680423	6.02484	-73.5739	Güepsa	Santander
+562694	5.86281	-73.9685	La belleza	Santander
+329805	6.21667	-73.8	Landázuri	Santander
+285869	6.12002	-73.6025	La paz	Santander
+302317	7.08167	-73.1937	Lebrija	Santander
+227514	6.75389	-73.1006	Los santos	Santander
+348748	6.70556	-72.7079	Málaga	Santander
+331320	7.3221	-73.0153	Matanza	Santander
+420318	6.45389	-72.9364	Mogotes	Santander
+312319	6.22139	-73.3117	Oiba	Santander
+273369	6.30667	-72.8011	Onzaga	Santander
+268134	6.48872	-73.1417	Páramo	Santander
+12080	7.04361	-72.9897	Piedecuesta	Santander
+567977	6.4865	-73.1699	Pinchote	Santander
+287203	5.89876	-73.6538	Puente nacional	Santander
+280782	6.61173	-73.9174	Puerto parra	Santander
+276098	7.61962	-73.7917	Puerto wilches	Santander
+35710	7.2365	-73.1349	Rionegro	Santander
+369890	7.52837	-73.6502	Sabana de torres	Santander
+730318	6.75	-72.7833	San andrés	Santander
+280180	6.55431	-73.1248	San gil	Santander
+662009	6.57333	-72.7453	San josé de miranda	Santander
+337106	6.9	-73.4167	San vicente de chucuri	Santander
+2172655	6.93906	-72.9018	Santa bárbara	Santander
+268172	4.73898	-76.2362	Socorro	Santander
+31986	7.11922	-73.826	Suaita	Santander
+276249	5.92375	-73.9238	Sucre	Santander
+533559	7.47126	-72.9813	Suratá	Santander
+202402	7.11667	-73.05	Tona	Santander
+351568	6.09889	-73.6594	Vélez	Santander
+312505	7.28333	-72.8833	Vetas	Santander
+546094	7.3	-73.5	Villanueva	Santander
+280640	6.81668	-73.269	Zapatoca	Santander
+547384	9.3	-75.4167	Sincelejo	Sucre
+12926	9.53025	-75.3647	Coloso	Sucre
+492905	9.33333	-75.25	Corozal	Sucre
+2152473	9.40139	-75.68	Coveñas	Sucre
+1679295	9.46265	-75.2171	Los palmitos	Sucre
+1679294	9.33226	-75.3066	Morroa	Sucre
+1679771	9.16239	-75.3907	Sampúes	Sucre
+13098	9.45028	-74.9074	San benito abad	Sucre
+1679100	9.27556	-75.2456	San juan de betulia	Sucre
+11020	8.66111	-75.1347	San marcos	Sucre
+153800	9.99428	-75.0703	San onofre	Sucre
+336739	6.45	-75.5833	San pedro	Sucre
+346599	9.06667	-75.1167	Santiago de tolú	Sucre
+13221	9.57739	-75.4496	Tolú viejo	Sucre
+173059	4.50187	-75.4034	Ibagué	Tolima
+297579	3.4601	-74.8788	Alpujarra	Tolima
+290581	4.5846	-75.0052	Alvarado	Tolima
+345420	4.74	-74.92	Ambalema	Tolima
+175486	4.62091	-75.2927	Anzoátegui	Tolima
+22698	5.13889	-74.9069	Armero	Tolima
+1049840	3.5833	-75.3833	Ataco	Tolima
+273795	4.43	-75.41	Cajamarca	Tolima
+273083	4.1475	-74.7239	Carmen de apicalá	Tolima
+761890	4.93	-75.28	Casabianca	Tolima
+272592	3.8957	-75.6971	Chaparral	Tolima
+42405	4.29216	-74.8846	Coello	Tolima
+505573	3.73891	-75.1555	Coyaima	Tolima
+286568	4.05389	-74.5789	Cunday	Tolima
+341047	3.6457	-74.7659	Dolores	Tolima
+273012	4.1512	-74.8911	Espinal	Tolima
+272046	5.0672	-74.9667	Falan	Tolima
+280744	4.2408	-74.8783	Flandes	Tolima
+25740	5.2	-75.0333	Fresno	Tolima
+272783	4.18064	-74.9341	Guamo	Tolima
+296789	5.1031	-75.2324	Herveo	Tolima
+32535	5.22936	-74.7332	Honda	Tolima
+42330	4.183	-74.5414	Icononzo	Tolima
+310060	4.86667	-74.9167	Lérida	Tolima
+278873	4.87528	-75.01	Líbano	Tolima
+179414	5.20111	-74.8964	San sebastián de mariquita	Tolima
+656831	4.21667	-74.6333	Melgar	Cundinamarca
+179172	4.96908	-75.3942	Murillo	Tolima
+42440	3.57633	-75.1203	Natagaima	Tolima
+275442	3.9373	-75.2218	Ortega	Tolima
+558673	5.13333	-75.0333	Palocabildo	Tolima
+315500	4.54514	-74.8583	Piedras	Tolima
+411998	3.73139	-74.7442	Prado	Tolima
+354368	3.8575	-74.872	Purificación	Tolima
+541839	3.36667	-75.7333	Rioblanco	Tolima
+277934	3.9938	-75.6224	Roncesvalles	Tolima
+354708	3.91314	-75.0216	Saldaña	Tolima
+329768	4.61667	-4.35	San antonio	Tolima
+1680290	3.98355	-75.0859	San luis	Tolima
+271975	4.6985	-75.1002	Santa isabel	Tolima
+274935	4.7781	-74.9611	Venadillo	Tolima
+650771	4.55	-95.0778	Villahermosa	Tolima
+286567	3.94	-74.5606	Villarrica	Tolima
+560117	3.41667	-76.55	Cali	Valle del Cauca
+406347	4.6737	-75.762	Alcalá	Valle del Cauca
+303391	4	-76.6667	Andalucía	Valle del Cauca
+143863	4.80097	-76.0935	Ansermanuevo	Valle del Cauca
+139907	4.72261	-76.1053	Argelia	Valle del Cauca
+572026	4.71833	-76.485	Bolívar	Valle del Cauca
+142589	3.85194	-81.5944	Buenaventura	Valle del Cauca
+150203	3.85944	-76.4693	Guadalajara de buga	Valle del Cauca
+419425	3.75	-77.0833	Bugalagrande	Valle del Cauca
+278871	4.31444	-75.8333	Caicedonia	Valle del Cauca
+286149	3.93333	-77.1333	Calima	Valle del Cauca
+262097	3.41028	-76.3481	Candelaria	Valle del Cauca
+273057	4.70611	-75.9135	Cartago	Valle del Cauca
+180503	3.66028	-76.6928	Dagua	Valle del Cauca
+141202	4.91944	-76.034	El águila	Valle del Cauca
+186517	4.72961	-76.2347	El cairo	Valle del Cauca
+262121	3.63333	-76.3	El cerrito	Valle del Cauca
+261777	4.5	-76.2333	El dovio	Valle del Cauca
+561562	3.33333	-77.4167	Florida	Valle del Cauca
+536273	3.75	-75.9667	Ginebra	Valle del Cauca
+1468742	3.77389	-76.3892	Guacarí	Valle del Cauca
+268830	3.28333	-76.4833	Jamundí	Valle del Cauca
+12016	3.56889	-76.5886	La cumbre	Valle del Cauca
+1355624	3.86694	-76.2122	La unión	Valle del Cauca
+760529	4.44	-75.92	La victoria	Valle del Cauca
+330986	4.61361	-75.0753	Obando	Valle del Cauca
+231767	3.51933	-76.1726	Palmira	Valle del Cauca
+1679095	3.41775	-76.2394	Pradera	Valle del Cauca
+448621	4.85611	-75.7367	Restrepo	Valle del Cauca
+317989	10.9	-74.1667	Riofrío	Valle del Cauca
+578300	4.39565	-73.1443	Roldanillo	Valle del Cauca
+775226	3.99	-76.2	San pedro	Valle del Cauca
+281029	4.17254	-75.8773	Sevilla	Valle del Cauca
+330708	4.66332	-76.1093	Toro	Valle del Cauca
+266156	4.21444	-76.3225	Trujillo	Valle del Cauca
+262059	4.02472	-76.1797	Tuluá	Valle del Cauca
+1462441	4.69056	-75.7328	Ulloa	Valle del Cauca
+562059	4.66667	-76.25	Versalles	Valle del Cauca
+1468697	3.71794	-76.417	Vijes	Valle del Cauca
+11944	3.87975	-76.443	Yotoco	Valle del Cauca
+269991	3.55014	-76.5489	Yumbo	Valle del Cauca
+266076	4.36667	-76	Zarzal	Valle del Cauca
+159264	6.91933	-71.1683	Arauca	Arauca
+159061	6.93056	-71.2611	Arauquita	Arauca
+361088	6.16944	-70.035	Cravo norte	Arauca
+325340	6.73333	-71.7167	Fortul	Arauca
+1746814	6.28044	-71.1756	Puerto rondón	Arauca
+674464	6.8623	-71.7815	Saravena	Arauca
+173599	6.34181	-72.287	Tame	Arauca
+32049	5.3693	-72.2715	Yopal	Casanare
+32374	4.89072	-72.4113	Aguazul	Casanare
+23461	6.15	-71.5547	Hato corozal	Casanare
+274151	6.0875	-72.3242	La salina	Casanare
+87492	9.15278	-72.8333	Maní	Casanare
+34636	4.88575	-72.9048	Monterrey	Casanare
+33163	5.51305	-72.2172	Nunchía	Casanare
+558975	4.83333	-71.8333	Orocué	Casanare
+23584	5.71333	-71.2389	Paz de ariporo	Casanare
+14188	5.70722	-76.0508	Pore	Casanare
+850010	5.33	-72.77	Recetor	Casanare
+33219	4.81927	-73.8266	Sabanalarga	Casanare
+142643	6.12722	-72.2858	Sácama	Casanare
+32906	5.1388	-72.6919	Tauramena	Casanare
+558233	5.41667	-71.6667	Trinidad	Casanare
+32345	4.57388	-72.9637	Villanueva	Casanare
+22695	1.69722	-76.7447	Mocoa	Putumayo
+375895	1.25125	-77.0008	Colón	Putumayo
+34716	0.501944	-77.2286	Orito	Putumayo
+290785	0.416667	-76.3	Puerto asís	Putumayo
+316984	0.653061	-76.6483	Puerto caicedo	Putumayo
+1753760	0.963889	-76.4036	Puerto guzmán	Putumayo
+243265	0.1	-74.9667	Puerto leguízamo	Putumayo
+233334	1.23889	-76.8969	Sibundoy	Putumayo
+306104	1.21528	-76.7839	San francisco	Putumayo
+1741315	0.339444	-76.8831	San miguel	Putumayo
+278535	1.18333	-77.1	Santiago	Putumayo
+272065	1.16667	-76.5667	Villagarzón	Putumayo
+179948	12.5508	-81.723	San andrés	San Andrés, Providencia y Santa Catalina
+181807	13.3383	-81.3789	Providencia	San Andrés, Providencia y Santa Catalina
+22335	-4.21528	-69.9406	Leticia	Amazonas
+41456	-1.42333	-72.8544	La chorrera	Amazonas
+11193	-1.31556	-69.5895	La pedrera	Amazonas
+273167	5.31667	-74.9	La victoria	Amazonas
+1753550	-2.14917	-71.7625	Puerto arica	Amazonas
+22318	-3.77028	-70.3831	Puerto nariño	Amazonas
+271895	-0.600278	-72.405	Puerto santander	Amazonas
+162473	-2.88034	-69.7369	Tarapacá	Amazonas
+37845	3.86527	-67.8572	Inírida	Guainía
+409074	1.91667	-67.1	San felipe	Guainía
+361226	2.2	-68.2167	Puerto colombia	Guainía
+674230	1.33417	-66.9168	La guadalupe	Guainía
+674249	3.47236	-67.4218	Cacahual	Guainía
+64700	2.17806	-71.1903	San josé del guaviare	Guaviare
+440553	1.96436	-72.6721	Calamar	Guaviare
+140103	2.17639	-71.1828	El retorno	Guaviare
+1049614	1.3666	-72.6833	Miraflores	Guaviare
+191896	1.37325	-70.9086	Mitú	Vaupés
+361580	1.00639	-71.2772	Caruru	Vaupés
+308114	-0.25	-70.5	Pacoa	Vaupés
+302870	-1	-61.6833	Taraira	Vaupés
+245053	1.06667	-69.5167	Yavaraté	Vaupés
+219	6.18778	-62.4731	Puerto carreño	Vichada
+179005	4.7861	-70.6369	La primavera	Vichada
+1746757	4.89463	-71.0105	Santa rosalía	Vichada
+12443	5.36333	-67.86	Cumaribo	Vichada

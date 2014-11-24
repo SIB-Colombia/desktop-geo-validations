@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <server ip_addr="localhost" communication_type="LOCAL" />
+  <Proxy>
+    <HttpProxy server="proxy4.ciat.cgiar.org" port="8080" />
+  </Proxy>
+  <work records="10000" />
+  <shape path="Municipios/Shapefile/MUNICIPIOS.shp">
+    <column name="fid">FID</column>
+    <column name="departamen">DEPARTAMEN</column>
+    <column name="nombre_ent">NOMBRE_ENT</column>
+    
+  </shape>
+</config>
+
