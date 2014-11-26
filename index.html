@@ -32,42 +32,42 @@
 
         <section id="main_content">
           <h1>
-<a id="introduction" class="anchor" href="#introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introduction.</h1>
+<a id="introducción" class="anchor" href="#introducci%C3%B3n" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introducción</h1>
 
-<p>This app is util to check geospatial coordinates through txt files. For the moment this validation is only available for:</p>
+<p>Esta aplicación es útil para verificar coordenadas geoespaciales a través de archivos .txt. Por el momento esta validación esta disponible solo para:</p>
 
 <ul>
-<li>Counties</li>
-<li>Marine Zones</li>
+<li>Municipios</li>
+<li>Áreas Marítimas</li>
 </ul>
 
 <h1>
-<a id="project-main-structure" class="anchor" href="#project-main-structure" aria-hidden="true"><span class="octicon octicon-link"></span></a>Project main structure</h1>
+<a id="estructura-principal-del-proyecto" class="anchor" href="#estructura-principal-del-proyecto" aria-hidden="true"><span class="octicon octicon-link"></span></a>Estructura principal del proyecto</h1>
 
-<p>The app has the following files:</p>
+<p>La aplicación tiene los siguientes archivos: </p>
 
 <ul>
 <li>client_config_areas.txt</li>
 <li>client_config_municipios.txt</li>
 <li>Validar.bat (Windows)</li>
 <li>Validar.sh (Linus/Mac)
-and two folders:</li>
+y dos carpetas:</li>
 <li>AreasMaritimas </li>
 <li>Municipios</li>
 </ul>
 
-<p>Each folder contains information about:</p>
+<p>Cada carpeta contiene información sobre:</p>
 
 <ul>
-<li>input: There is the txt with the information to check.</li>
-<li>output: There is a txt with the checked information. </li>
-<li>shapefile: There are multiple files that contains the geographic information.</li>
-<li>SHPMunicipioV.jar or SHPAreaMaritimaV.jar</li>
+<li>input: En esta carpeta contiene un .txt con la información que debe ser verificada.</li>
+<li>output: En esta carpeta se encuentra el .txt con la información verificada. </li>
+<li>shapefile: Esta carpeta contiene varios archivos, los cuales contienen la información geografica necesaria para llevar acabo la verificación.</li>
+<li>SHPMunicipioV.jar o SHPAreaMaritimaV.jar</li>
 </ul>
 
-<p><strong>Note</strong> </p>
+<p><strong>Nota</strong> </p>
 
-<p>You can download: </p>
+<p>Puede descargar: </p>
 
 <ul>
 <li>Shapefile: <a href="https://s3.amazonaws.com/IPT/shapes/LimitesMaritimos.zip">https://s3.amazonaws.com/IPT/shapes/LimitesMaritimos.zip</a> and <a href="https://s3.amazonaws.com/IPT/shapes/Departamentos(2012).zip">https://s3.amazonaws.com/IPT/shapes/Departamentos(2012).zip</a>
@@ -77,68 +77,68 @@ and two folders:</li>
 </ul>
 
 <h1>
-<a id="structure-of-txt-files" class="anchor" href="#structure-of-txt-files" aria-hidden="true"><span class="octicon octicon-link"></span></a>Structure of txt files</h1>
+<a id="estructura-de-los-archivos-txt" class="anchor" href="#estructura-de-los-archivos-txt" aria-hidden="true"><span class="octicon octicon-link"></span></a>Estructura de los archivos .txt</h1>
 
 <h2>
-<a id="input-txt" class="anchor" href="#input-txt" aria-hidden="true"><span class="octicon octicon-link"></span></a>Input txt</h2>
+<a id="archivo-de-entrada-txt" class="anchor" href="#archivo-de-entrada-txt" aria-hidden="true"><span class="octicon octicon-link"></span></a>Archivo de entrada txt</h2>
 
 <h3>
-<a id="for-marine-zone-case" class="anchor" href="#for-marine-zone-case" aria-hidden="true"><span class="octicon octicon-link"></span></a>For Marine Zone case:</h3>
+<a id="para-el-caso-de-Áreas-marítimas" class="anchor" href="#para-el-caso-de-%C3%81reas-mar%C3%ADtimas" aria-hidden="true"><span class="octicon octicon-link"></span></a>Para el caso de Áreas Marítimas:</h3>
 
-<p>The txt need to have the name "areaMaritimas.txt" and the following information in the same order:</p>
+<p>El archivo txt debe llamarse "areaMaritimas.txt" y necesita tener la siguiente información en el mismo orden que se da:</p>
 
 <ul>
 <li>id </li>
-<li>latitude</li>
-<li>longitude </li>
-<li>Marine Zone name</li>
+<li>latitud</li>
+<li>longitud </li>
+<li>Nombre del Área Marítima</li>
 </ul>
 
 <h3>
-<a id="for-counties-case" class="anchor" href="#for-counties-case" aria-hidden="true"><span class="octicon octicon-link"></span></a>For Counties case:</h3>
+<a id="para-el-caso-de-municipios" class="anchor" href="#para-el-caso-de-municipios" aria-hidden="true"><span class="octicon octicon-link"></span></a>Para el caso de Municipios:</h3>
 
-<p>The txt needs to have the name  "municipios.txt" and the following information in the same order:</p>
+<p>El archivo txt debe llamarse "municipios.txt" y necesita tener la siguiente información en el mismo orden que se da:</p>
 
 <ul>
 <li>id </li>
-<li>latitude</li>
-<li>longitude </li>
-<li>County name</li>
-<li>Department name</li>
+<li>latitud</li>
+<li>longitud</li>
+<li>Nombre del Municipio</li>
+<li>Nombre del Departamento</li>
 </ul>
 
 <h2>
-<a id="output-txt" class="anchor" href="#output-txt" aria-hidden="true"><span class="octicon octicon-link"></span></a>Output txt</h2>
+<a id="archivo-de-salida-txt" class="anchor" href="#archivo-de-salida-txt" aria-hidden="true"><span class="octicon octicon-link"></span></a>Archivo de salida txt</h2>
 
 <h3>
-<a id="for-marine-zone-case-1" class="anchor" href="#for-marine-zone-case-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>For Marine Zone case:</h3>
+<a id="para-el-caso-de-Áreas-marítimas-1" class="anchor" href="#para-el-caso-de-%C3%81reas-mar%C3%ADtimas-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Para el caso de Áreas Marítimas:</h3>
 
-<p>The txt shows the information in the following order:</p>
+<p>El archivo txt que se crea muestra la información en el siguiente orden:</p>
 
 <ul>
 <li>id </li>
-<li>latitude</li>
-<li>longitude </li>
-<li>Marine Zone name</li>
-<li>Marine Zone name calculated</li>
-<li>True or False (marine zone check)</li>
+<li>latitud</li>
+<li>longitud </li>
+<li>Nombre del Área Marítima</li>
+<li>Nombre del Área Marítima calculada</li>
+<li>True or False (verificación del área marítima)</li>
 </ul>
 
 <h3>
-<a id="for-counties-case-1" class="anchor" href="#for-counties-case-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>For Counties case:</h3>
+<a id="para-el-caso-de-municipios-1" class="anchor" href="#para-el-caso-de-municipios-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Para el caso de Municipios:</h3>
 
-<p>The txt shows the information in the following order:</p>
+<p>El archivo txt que se crea muestra la información en el siguiente orden:</p>
 
 <ul>
 <li>id </li>
 <li>latitude</li>
 <li>longitude </li>
-<li>Department name</li>
-<li>Department name calculated</li>
-<li>True or False (department check)</li>
-<li>County name</li>
-<li>County name calculated</li>
-<li>True or False (county check)</li>
+<li>Nombre del Departamento</li>
+<li>Nombre del Departamento calculado</li>
+<li>True or False (verificación del departamento)</li>
+<li>Nombre del Municipio</li>
+<li>Nombre del Municipio calculado</li>
+<li>True or False (verificación del municipio)</li>
 </ul>
         </section>
 
