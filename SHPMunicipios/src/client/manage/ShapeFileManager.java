@@ -1,6 +1,7 @@
 package client.manage;
 
 import java.io.File;
+import java.text.Normalizer;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
@@ -54,10 +55,23 @@ public class ShapeFileManager {
             	municipios.clear();
             	municipios.addAll(shapefile.polygonsForAPoint(rec.getLatitude(), rec.getLongitude()));
         		for (String[] municipio : municipios) {
-        			if(rec.getDepartamento().equalsIgnoreCase(municipio[0])){
+
+        			String departamentoNormalizado = Normalizer.normalize(municipio[0], Normalizer.Form.NFD);
+        			departamentoNormalizado = departamentoNormalizado.replaceAll("[^\\p{ASCII}]", "").replace(" ","").toLowerCase();
+                    
+        			String departamentoNormalizadoRec = Normalizer.normalize(rec.getDepartamento(), Normalizer.Form.NFD);
+        			departamentoNormalizadoRec = departamentoNormalizadoRec.replaceAll("[^\\p{ASCII}]", "").replace(" ","").toLowerCase();
+                    
+        			String municipioNormalizado = Normalizer.normalize(municipio[1], Normalizer.Form.NFD);
+                    municipioNormalizado = municipioNormalizado.replaceAll("[^\\p{ASCII}]", "").replace(" ","").toLowerCase();
+                    
+                    String municipioNormalizadoRec = Normalizer.normalize(rec.getMunicipio(), Normalizer.Form.NFD);
+                    municipioNormalizadoRec = municipioNormalizadoRec.replaceAll("[^\\p{ASCII}]", "").replace(" ","").toLowerCase();
+        			
+                    if(departamentoNormalizado.matches("(.*)"+departamentoNormalizadoRec+"(.*)")){
         				rec.setDepartamentocheck("true");
         			}
-        			if(rec.getMunicipio().equalsIgnoreCase(municipio[1])&&rec.getDepartamento().equalsIgnoreCase(municipio[0])){
+        			if(municipioNormalizado.matches("(.*)"+municipioNormalizadoRec+"(.*)")&&departamentoNormalizado.matches("(.*)"+departamentoNormalizadoRec+"(.*)")){
         				rec.setMunicipiocheck("true");
         			}
         			rec.setMunicipioCalculado(municipio[1].toLowerCase());

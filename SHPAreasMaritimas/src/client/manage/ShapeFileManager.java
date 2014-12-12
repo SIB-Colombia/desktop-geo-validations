@@ -1,6 +1,7 @@
 package client.manage;
 
 import java.io.File;
+import java.text.Normalizer;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
@@ -68,8 +69,13 @@ public class ShapeFileManager {
 	        				}
 	        			}
         			}
-
-    				if(rec.getArea().toLowerCase().equals(areaCalculada.toLowerCase())){
+        			String areaNormalizada = Normalizer.normalize(areaCalculada, Normalizer.Form.NFD);
+        			areaNormalizada = areaNormalizada.replaceAll("[^\\p{ASCII}]", "").replace(" ","").toLowerCase();
+        			
+        			String areaNormalizadaRec = Normalizer.normalize(rec.getArea(), Normalizer.Form.NFD);
+        			areaNormalizadaRec = areaNormalizadaRec.replaceAll("[^\\p{ASCII}]", "").replace(" ","").toLowerCase();
+        			
+    				if(areaNormalizada.matches("(.*)"+areaNormalizadaRec+"(.*)")){
         				rec.setAreacheck("true");
         			}
         			rec.setAreaCalculado(areaCalculada);

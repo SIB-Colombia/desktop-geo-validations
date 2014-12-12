@@ -6,12 +6,11 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.rmi.RemoteException;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
-import java.awt.*;
-import javax.swing.*;
 
 import client.manage.ShapeFileManager;
 import model.Record;
@@ -47,10 +46,10 @@ public class Client {
 
         public static void main(String[] args) throws IOException {
         	
-        	Date fecha = new Date();
+        	Calendar fecha = Calendar.getInstance();
         	File in = new File("AreasMaritimas/input/areaMaritimas.txt");
         	if(in.exists() && !in.isDirectory()){
-		    	FileWriter out = new FileWriter("AreasMaritimas/output/areaMaritimasValidacion_"+ fecha.getDate() + "-" + fecha.getMonth() +  "-" + fecha.getYear() +".txt");
+		    	FileWriter out = new FileWriter("AreasMaritimas/output/areaMaritimasValidacion_"+ fecha.get(Calendar.DAY_OF_MONTH) + "-" + (fecha.get(Calendar.MONTH)+1) +  "-" + fecha.get(Calendar.YEAR) +".txt");
 		
 		        reader = new Scanner(in);
 		        writer = new PrintWriter(out);
